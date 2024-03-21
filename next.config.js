@@ -1,5 +1,4 @@
 const config = require("./config");
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     env:{
@@ -7,4 +6,4 @@ const nextConfig = {
     },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
