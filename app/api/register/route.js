@@ -16,7 +16,7 @@ const user = await new User({
    password:await bcrypt.hash(password,10),
 }).save();
 // console.log("user created =>",user);
-return  NextResponse.json({success:"Registered Successfully"});
+return  NextResponse.json({success:"Registered Succssfully"});
 }catch (err){
 console.log(err);
 return NextResponse.json({err:err.message},{status:500});
