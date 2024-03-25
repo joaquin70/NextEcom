@@ -1,4 +1,4 @@
-const config = require("./config.js");
+const config = require("./config");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     env:{
