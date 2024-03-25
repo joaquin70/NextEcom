@@ -39,4 +39,4 @@ const  userSchema = new mongoose.Schema({
 
 userSchema.plugin(uniquevalidator);
 
-export default mongoose.models.user  || mongoose.model("User",userSchema);
+export default mongoose.models.User  || mongoose.model("User",userSchema);
