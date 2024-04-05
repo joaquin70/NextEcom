@@ -36,4 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
- ![Miniatura](![Uploading Ecom.png…])
+ ![Miniatura](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dw9l7vUWzw1I&psig=AOvVaw1PfN4ipec7sw8oDM-cNZrK&ust=1712417657319000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiFsZOzq4UDFQAAAAAdAAAAABAE)
